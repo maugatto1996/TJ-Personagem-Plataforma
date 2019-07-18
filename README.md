@@ -15,3 +15,6 @@ Criar um sistema em que um personagem fica em cima de uma plataforma. esse proje
 Sprites: [Game Art 2D](https://www.gameart2d.com/).
 
 ![Pudim](https://www.pudim.com.br/pudim.jpg)
+
+*Exemplo de comando:*
+'''Debug.log("teste");'''
