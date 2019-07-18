@@ -1,11 +1,13 @@
 # TJ-Personagem-Plataforma
+
 por: ***Mauricio Gatto***
+
 Projeto desenvolvido utilizando o game Engine Unity
 
-##Objetivo 
+## Objetivo 
 Criar um sistema em que um personagem fica em cima de uma plataforma. esse projeto foi construido em 2D
 
-##Elementos utilizados:
+## Elementos utilizados:
 1. Rigidybody
 2. BoxCollider
 
