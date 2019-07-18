@@ -2,14 +2,14 @@
 
 por: ***Mauricio Gatto***
 
-Projeto desenvolvido utilizando o game Engine Unity
+Projeto desenvolvido utilizando o *Game Engine* [Unity](https://unity.com/pt).
 
-## Objetivo 
+### Objetivo 
 Criar um sistema em que um personagem fica em cima de uma plataforma. esse projeto foi construido em 2D
 
-## Elementos utilizados:
-1. Rigidybody
-2. BoxCollider
+### Elementos utilizados:
+- Rigidybody
+- BoxCollider
 
-Sprites
-Game Art 2D
+### Recursos
+Sprites: Game Art 2D
